@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity {
         //추가 작업을 여기서 할겁니다
         //is it possible?
 
+        getSupportActionBar().setSubtitle("asdf");
+
     }
 
 
