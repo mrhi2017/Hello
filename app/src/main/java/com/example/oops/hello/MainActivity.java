@@ -1,3 +1,4 @@
+
 package com.example.oops.hello;
 
 import android.content.Context;
@@ -48,6 +49,9 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(adapter);
 
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false));
+        
+        //추가 작업을 여기서 할겁니다
+        //is it possible?
 
     }
 
