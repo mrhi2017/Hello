@@ -55,6 +55,13 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().setSubtitle("asdf");
 
+        //지금부터는 lee에 의한 수정입니다.
+        getSupportActionBar().setWindowTitle("윈도우 타이틀??");
+
+        //새로수정함.
+        //무조건 반영되네.
+
+
     }
 
 
